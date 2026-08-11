@@ -21,10 +21,6 @@ and continuously improving my software development skills.
 * 🐳 Familiar with **Docker and Postman**
 * 💡 Interested in clean code, REST API design, and problem solving
 
----
-
-## 🛠️ Tech Stack
-
 ### Languages
 
 Java
@@ -36,11 +32,11 @@ Backend
 3. REST API
 4. JPA / Hibernate
 
-### Database
+ Database
 
 MySQL
 
-### Tools
+ Tools
 
 1. Git
 2. GitHub
@@ -49,11 +45,7 @@ MySQL
 5. Postman
 6. IntelliJ IDEA
 
----
-
-## 🚀 Featured Projects
-
-### 🏨 Hostel Management System
+🏨 Hostel Management System
 
 A Spring Boot based application for managing hostel users,
 rooms, bookings, payments, and reviews.
@@ -70,15 +62,10 @@ Java • Spring Boot • Spring Security • JWT • MySQL .M**icroservices;**
 * 🔗 RESTful APIs
 * 🗄️ MySQL database integration using JPA/Hibernate
 
----
-
-### 🛒 E-Commerce Application
+ 🛒 E-Commerce Application
 
 A full-stack e-commerce application for managing products,
-users, carts, orders, and payments.
-
-**Tech Stack:**
-Java • Spring Boot • MySQL 
+users, carts, orders, and payments. 
 
 **Features:**
 
@@ -89,8 +76,6 @@ Java • Spring Boot • MySQL 
 * 👨‍💼 Admin panel
 * 🔗 REST APIs
 * 🗄️ MySQL database integration
-
----
 
 ## 📚 Currently Learning
 
@@ -106,13 +91,13 @@ Java • Spring Boot • MySQL 
 
 ---
 
-## 💻 Coding Profiles
+ 💻 Coding Profiles
 
-* 🐙 GitHub: [Kartikey Mishra](YOUR_GITHUB_URL)
+* 🐙 GitHub: [Kartikey Mishra](https://github.com/kartikeymishra5)
 * 🧩 LeetCode: [My LeetCode Profile](YOUR_LEETCODE_URL)
 * 💡 HackerRank: [My HackerRank Profile](YOUR_HACKERRANK_URL)
 
-## 📫 Connect With Me
+ 📫 Connect With Me
 
 * 📧 Email: [mkartikey81@gmail.com](mailto:mkartikey81@gmail.com)
 * 💼 LinkedIn: [LinkedIn Profile](YOUR_LINKEDIN_URL)
